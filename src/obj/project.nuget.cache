@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "/q43tdTc2q0=",
+  "success": false,
+  "projectFilePath": "D:\\Siloam\\github_personal\\aes-encryption-decryption\\src\\aesEncryptionDecryption.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lutfi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lutfi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package System.Security.Cryptography.Algorithms with version (>= 5.0.0)\r\n  - Found 9 version(s) in nuget.org [ Nearest version: 4.3.1 ]",
+      "libraryId": "System.Security.Cryptography.Algorithms",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

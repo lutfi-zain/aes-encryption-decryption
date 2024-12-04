@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = aesEncryptionDecryption
+build_property.ProjectDir = D:\Siloam\github_personal\aes-encryption-decryption\src\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
